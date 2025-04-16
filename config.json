@@ -1,0 +1,12 @@
+{
+    "website_url": "YOUR_TARGET_WEBSITE",
+    "proxy": "YOUR_PROXY_CREDENTIALS",
+    "number_of_threads": 3,
+    "scroll_movements": 5,
+    "external_queries": [
+        "https://www.reddit.com/search/?q=",
+        "https://www.google.com/search?q=",
+        "https://stackoverflow.com/questions/tagged/",
+        "https://github.com/search?q="
+    ]
+} 
