@@ -15,7 +15,7 @@ A sophisticated web automation tool that simulates human-like browsing behavior 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mokoshalb/WebsiteImpressionBot.git
+git clone https://github.com/OkoyaUsman/WebsiteImpressionBot.git
 cd WebsiteImpressionBot
 ```
 
