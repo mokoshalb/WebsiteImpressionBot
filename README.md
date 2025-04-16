@@ -15,8 +15,8 @@ A sophisticated web automation tool that simulates human-like browsing behavior 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/website-impression-bot.git
-cd website-impression-bot
+git clone https://github.com/mokoshalb/WebsiteImpressionBot.git
+cd WebsiteImpressionBot
 ```
 
 2. Install the required dependencies:
